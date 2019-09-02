@@ -15,15 +15,3 @@ p {
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
-h2 {
-  display: block;
-  width: 300px;
-  margin: 50px auto;
-  font: 25px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-}
-h3 {
-  display: block;
-  width: 300px;
-  margin: 50px auto;
-  font: 25px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-}
